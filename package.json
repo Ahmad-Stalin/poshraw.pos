@@ -12,13 +12,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "express": "^5.2.1",
+    "@netlify/blobs": "^11.1.4",
+    "@netlify/database": "^2.0.1",
     "html5-qrcode": "^2.3.8",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
   "devDependencies": {
-    "@types/express": "^5.0.6",
+    "@netlify/functions": "^6.0.2",
     "@types/node": "^24.13.3",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
